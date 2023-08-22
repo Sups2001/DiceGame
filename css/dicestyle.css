@@ -1,0 +1,56 @@
+.whole{
+    height: 690px;
+    background-color: cadetblue;
+    
+
+}
+.refresh{
+    font-size: 80px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lugrasimo', cursive;
+    
+}
+.players{
+    display:flex;
+    justify-content: space-evenly;
+}
+.box1{
+    height:463px;
+    width:400px;
+    margin-top: 50px;
+}
+.box2{
+    height:463px;
+    width:400px;
+    margin-top: 50px;
+}
+.player1_img img{
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+    
+}
+.player2_img img{
+     
+    height: 400px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.player1{
+
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+   display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.player2{
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+   display:flex;
+    align-items: center;
+    justify-content: center;
+}
